@@ -80,7 +80,7 @@ requests==2.18.4
 requests-kerberos==0.12.0
 requests-ntlm==1.1.0
 schedule==0.5.0
-Scrapy==1.5.1
+Scrapy==2.6.2
 scrapy-redis==0.6.8
 scrapyd-client==1.1.0
 selenium==3.14.1
